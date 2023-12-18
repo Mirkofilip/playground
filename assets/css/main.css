@@ -662,6 +662,7 @@ footer a {
 
     .cookie-banner button {
         margin-top: 15px;
+        margin-left:0;
     }
 
     .swiper-slide .container {
